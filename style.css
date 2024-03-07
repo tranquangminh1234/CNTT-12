@@ -1,0 +1,26 @@
+.row{
+    background-color: rgb(57, 213, 252);
+    padding: 70px;
+    color: white;
+}
+.middle{
+    padding: auto;
+    display: flex;
+    flex-direction: row;
+}
+.button{
+    width: 360px;
+    height: 50vh;
+    margin-left: 120px;
+    
+    border: 1px solid black;
+
+}
+.text1{
+    margin-left: 25px;
+}
+.text2{
+    margin-left: 25px;
+    color: gray;
+
+}
